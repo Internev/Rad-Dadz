@@ -1,0 +1,54 @@
+.navbar {
+	background-color: #fc9cdc;
+	color: #9cacfc;
+	border-bottom-width: .8em;
+	border-bottom-color: #9cacfc;
+}
+
+.well {
+	background-color: #9cfcbc;
+	outline: .2em solid #9cacfc;
+	color: #9cacfc;
+}
+
+body {
+	background-color: #fcfcde;
+}
+
+.dottybox {
+	background-color: #FFFFFF;
+	outline: .2em dashed #9cacfc;
+	padding: 1em;
+}
+
+.morepad {
+	padding: 1em 1em 0em 1em;
+}
+
+.bigger {
+	font-size: 22;
+}
+
+blockquote {
+	font-style: italic;
+	font-size: 14;
+}
+
+img {
+	margin-left: 5px;
+	margin-right: 15px;
+}
+
+.moremarg {
+	margin: 10px 10px 10px 10px;
+}
+
+.btn-info {
+	background-color: #9cacfc;
+	border-color: #fc9cdc;
+}
+
+.btn-info:hover {
+	background-color: #9cfcbc;
+	border-color: #fc9cdc;
+}
